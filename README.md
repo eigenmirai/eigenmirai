@@ -1,6 +1,7 @@
 <div align="center">
   
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
   
@@ -14,6 +15,7 @@
 ## 🌃 Other:
 - rust :troll:
 - i like math
+- i don't know how to do web dev
 - i don't know how to use git properly
 - i steal front end code 
 - i frogor
