@@ -1,12 +1,16 @@
 <div align="center">
+
+  [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjgiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAzNjggMzUiPjxyZWN0IHdpZHRoPSIxMjYiIGhlaWdodD0iMzUiIGZpbGw9IiNiZDEwZTAiLz48cmVjdCB4PSIxMjYiIHdpZHRoPSIyNDIiIGhlaWdodD0iMzUiIGZpbGw9IiM5MDEzZmUiLz48dGV4dCB4PSI2MyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+UE9XRVJFRCBCWTwvdGV4dD48dGV4dCB4PSIyNDciIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5BUllMQ1lDTE9IRVhZTEFNSU5FUzwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
+   
+  <br>
   
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
   <br>
+  
   [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-  
 </div>
 
 ## 🍂 Languages:
